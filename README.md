@@ -29,10 +29,12 @@ gcc ticket_booking.c -o ticket_booking
 ./ticket_booking
 
 📝 Sample Output
-****************************************************************<br>
-              Unreserved Ticket Booking System<br>
-****************************************************************<br>
-<p>Train              Time         Train No.</p
+<div style="border: 2px solid black; padding: 10px; font-family: monospace;">
+<pre>
+****************************************************************
+              Unreserved Ticket Booking System
+****************************************************************
+Train              Time         Train No.
 AMRITA EXPRESS     12:00         12365
 RAJDHANI EXPRESS   01:00         16365
 TRIUPATI EXPRESS   16:00         17365
@@ -48,6 +50,13 @@ Enter gender (M/F): M
 Name: John Doe
 Age: 25
 Gender: M
+Train name AMRITA EXPRESS
+Train no 12365
+**************************************************************
+
+Do you want to repeat? (y/n): n
+</pre>
+</div>
 Train name AMRITA EXPRESS
 Train no 12365
 **************************************************************
