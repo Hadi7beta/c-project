@@ -12,9 +12,9 @@
 <hr>
 <h2>🛠️ Tech Stack</h2>
 
-<h3>Language: C</h3>
+<h4>Language: C</h4>
 
-<h3>Compiler: GCC</h3>
+<h4>Compiler: GCC</h4>
 
 <h3>Input Handling: Standard Input (stdin)</h3>
 <hr>
