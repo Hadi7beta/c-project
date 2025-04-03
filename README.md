@@ -30,7 +30,7 @@ gcc ticket_booking.c -o ticket_booking
 
 <h3>📝 Sample Output</h3>
 <div style="border: 2px solid black; padding: 10px; font-family: monospace;">
-<pre>
+
 ****************************************************************
               Unreserved Ticket Booking System
 ****************************************************************
@@ -59,8 +59,7 @@ Train name AMRITA EXPRESS
 Train no 12365
 **************************************************************
 Do you want to repeat? (y/n): n
-<br>
-</pre>
+
 </div>
 
 
