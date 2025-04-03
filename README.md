@@ -28,7 +28,7 @@ gcc ticket_booking.c -o ticket_booking
 
 ./ticket_booking
 
-📝 Sample Output
+<h3>📝 Sample Output</h3>
 <div style="border: 2px solid black; padding: 10px; font-family: monospace;">
 <pre>
 ****************************************************************
@@ -61,3 +61,4 @@ Train no 12365
 Do you want to repeat? (y/n): n
 </pre>
 </div>
+</html>
