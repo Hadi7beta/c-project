@@ -16,7 +16,7 @@
 
 <h4>Compiler: GCC</h4>
 
-<h3>Input Handling: Standard Input (stdin)</h3>
+<h4>Input Handling: Standard Input (stdin)</h4>
 <hr>
 <h2>📦 Installation & Usage</h2>
 
