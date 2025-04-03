@@ -21,12 +21,16 @@
 <h2>📦 Installation & Usage</h2>
 
 <h3>🔧 Compilation</h3>
-
+<div style="border: 2px solid black; padding: 10px; font-family: monospace;">
+<pre>
 gcc ticket_booking.c -o ticket_booking
+</pre>
 
 <h3>🚀 Running the Program</h3>
-
+<div style="border: 2px solid black; padding: 10px; font-family: monospace;">
+<pre>
 ./ticket_booking
+</pre>
 
 <h3>📝 Sample Output</h3>
 <div style="border: 2px solid black; padding: 10px; font-family: monospace;">
