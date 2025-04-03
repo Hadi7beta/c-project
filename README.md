@@ -18,21 +18,21 @@
 
 <h3>Input Handling: Standard Input (stdin)</h3>
 <hr>
-📦 Installation & Usage
+<h2>📦 Installation & Usage</h2>
 
-🔧 Compilation
+<h3>🔧 Compilation</h3>
 
 gcc ticket_booking.c -o ticket_booking
 
-🚀 Running the Program
+<h3>🚀 Running the Program</h3>
 
 ./ticket_booking
 
 📝 Sample Output
-****************************************************************
-              Unreserved Ticket Booking System
-****************************************************************
-Train              Time         Train No.
+****************************************************************<br>
+              Unreserved Ticket Booking System<br>
+****************************************************************<br>
+<p>Train              Time         Train No.</p
 AMRITA EXPRESS     12:00         12365
 RAJDHANI EXPRESS   01:00         16365
 TRIUPATI EXPRESS   16:00         17365
