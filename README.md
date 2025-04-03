@@ -6,10 +6,10 @@
 
 <h2>🎯 Features</h2>
 <br>
-✅ Choose from four available trains<br>
-✅ Enter passenger details (Name, Age, Gender)<br>
-✅ Generates a formatted general ticket<br>
-✅ Repeats booking process until user exits<br>
+✅ <h4>Choose from four available trains</h4><br>
+✅ <h4>Enter passenger details (Name, Age, Gender)</h4><br>
+✅ <h4>Generates a formatted general ticket</h4><br>
+✅ <h4>Repeats booking process until user exit</h4>s<br>
 
 🛠️ Tech Stack
 
