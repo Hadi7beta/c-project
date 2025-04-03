@@ -5,11 +5,11 @@
 <h3>The Unreserved Ticket Booking System is a simple C program that allows users to book general tickets for trains based on a predefined list of available options.</h3>
 
 <h2>🎯 Features</h2>
-
-✅ Choose from four available trains
-✅ Enter passenger details (Name, Age, Gender)
-✅ Generates a formatted general ticket
-✅ Repeats booking process until user exits
+<br>
+✅ Choose from four available trains<br>
+✅ Enter passenger details (Name, Age, Gender)<br>
+✅ Generates a formatted general ticket<br>
+✅ Repeats booking process until user exits<br>
 
 🛠️ Tech Stack
 
