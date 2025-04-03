@@ -10,10 +10,10 @@
 <h3>✅ <i>Generates a formatted general ticket</i></h3>
 <h3>✅ <i>Repeats booking process until user exit</i></h3>
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-Language: C
+<h3>Language: C</h3>
 
-Compiler: GCC
+<h3>Compiler: GCC</h3>
 
-Input Handling: Standard Input (stdin)
+<h3>Input Handling: Standard Input (stdin)</h3>
