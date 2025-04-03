@@ -60,5 +60,6 @@ Do you want to repeat? (y/n): n
 
 </pre>
 </div>
+<hr>
 
 
