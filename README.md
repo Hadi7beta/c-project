@@ -59,6 +59,7 @@ Train name AMRITA EXPRESS
 Train no 12365
 **************************************************************
 Do you want to repeat? (y/n): n
+<br>
 </pre>
 </div>
 
