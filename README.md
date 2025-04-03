@@ -43,7 +43,6 @@ Enter train no: 12365
 Enter name: John Doe
 Enter age: 25
 Enter gender (M/F): M
-
 ***************************************************************
                   General Ticket
 ***************************************************************
@@ -53,7 +52,6 @@ Gender: M
 Train name AMRITA EXPRESS
 Train no 12365
 **************************************************************
-
 Do you want to repeat? (y/n): n
 </pre>
 </div>
